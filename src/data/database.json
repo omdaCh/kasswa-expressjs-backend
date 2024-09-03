@@ -1,0 +1,2827 @@
+{
+  "items": [
+    {
+      "id": "0",
+      "name": "Nike Go FlyEase",
+      "description": "Nike shoes are the foundation of the sneaker collecting hobby as we know it today. The legacy of the most famous brand in sneakers began in the 1970s when the legendary Oregon track coach Bill Bowerman began cobbling together his own custom-made track spikes and racing flats, eventually pairing with former runner Phil Knight to found the Nike brand in 1972. Nike gained popularity outside of performance athletics during the early 1980s with models such as the Nike Air Force 1, Nike Dunk, and Air Jordan 1, which all became hit lifestyle sneakers on the streets. Nike’s popularity continued to snowball in the 1990s with even more now-iconic models including the Nike Air Max 90, Nike Air Max 95, and Air Jordan 11. Today, Nike is regarded by many as the most stylish and innovative athletic footwear brand in the industry, constantly pushing boundaries in fashion and performance. Nike’s collaborations with Supreme, Travis Scott, Sacai, and many others are among the most desirable and valuable sneakers on the market. For performance or casual wear, Nike shoes for men, women, and kids supply comfort and style, innovation and next-level design. The Nike Air Max 1, Nike Blazer, and Nike Air Max 97 have been used by brands such as Patta, Sacai, and Off-White in some of the most influential collaborations in sneaker history.",
+      "colors": [
+        {
+          "colorName": "black",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "true"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "true"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "true"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/0/black/1.jpg",
+            "./assets/clothes/0/black/2.jpg",
+            "./assets/clothes/0/black/3.jpg",
+            "./assets/clothes/0/black/4.jpg",
+            "./assets/clothes/0/black/5.jpg"
+          ]
+        },
+        {
+          "colorName": "Army Green",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "true"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "true"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 41",
+              "available": "false"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 42",
+              "available": "false"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/0/white/1.jpg",
+            "./assets/clothes/0/white/2.jpg",
+            "./assets/clothes/0/white/3.jpg",
+            "./assets/clothes/0/white/4.jpg"
+          ]
+        }
+      ],
+      "price": "64.20",
+      "discountedPrice": "50.00",
+      "nbrSold": 15,
+      "rating": 4.5,
+      "numberOfReviews": 113,
+      "brand": {
+        "name": "Nike",
+        "photoUrl": "./assets/brands/nike.png"
+      },
+      "gender": "male",
+      "age": "adulte",
+      "shippingCoast": "4.00"
+    },
+    {
+      "id": "2",
+      "name": "Wrangler Authentics Men's Classic 5-Pocket Regular Fit Flex Jean",
+      "description": "The Wrangler Authentics collection delivers laid-back style for the man on the go. Performance-level comfort is built into our classic button-downs and blue jeans for an outfit that feels as good as it looks. Wrangler Authentics jeans are constructed with 5-pocket styling, made from heavyweight 100% cotton denim and feature a comfortable waist with deep front pockets. Available with Advanced Comfort technology that helps your jeans move with you for all day comfort. Pair with your favorite Wrangler Authentics shirt for a night out or casual weekend.",
+      "colors": [
+        {
+          "colorName": "blue",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "false"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 42",
+              "available": "true"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "mainPhotoUrl": "./assets/clothes/2/blue/main-photo.jpg",
+          "photos": [
+            "./assets/clothes/2/blue/1.jpg",
+            "./assets/clothes/2/blue/2.jpg",
+            "./assets/clothes/2/blue/3.jpg"
+          ]
+        },
+        {
+          "colorName": "white",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "true"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "false"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "mainPhotoUrl": "./assets/clothes/2/white/main-photo.jpg",
+          "photos": [
+            "./assets/clothes/2/white/1.jpg",
+            "./assets/clothes/2/white/2.jpg",
+            "./assets/clothes/2/white/3.jpg",
+            "./assets/clothes/2/white/4.jpg",
+            "./assets/clothes/2/white/5.jpg"
+          ]
+        }
+      ],
+      "price": "39.99",
+      "nbrSold": 10,
+      "rating": 4.2,
+      "numberOfReviews": 95,
+      "gender": "male",
+      "age": "adulte",
+      "shippingCoast": "5.1"
+    },
+    {
+      "id": "4",
+      "name": "Tendy Long Sleeve Mini Dress",
+      "description": "Dokotoo Womens Dress Long Lantern Sleeve Square Neck Tie Backless Sexy Dress Ruffle Elastic Waist A-Line Mini Dress",
+      "colors": [
+        {
+          "colorName": "Army Green",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "false"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "false"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/4/Army Green/1.jpg",
+            "./assets/clothes/4/Army Green/2.jpg",
+            "./assets/clothes/4/Army Green/3.jpg",
+            "./assets/clothes/4/Army Green/4.jpg"
+          ]
+        },
+        {
+          "colorName": "white",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/4/white/1.jpg",
+            "./assets/clothes/4/white/2.jpg",
+            "./assets/clothes/4/white/3.jpg",
+            "./assets/clothes/4/white/4.jpg"
+          ]
+        }
+      ],
+      "price": "49.99",
+      "nbrSold": 13,
+      "rating": 4.3,
+      "numberOfReviews": 80,
+      "gender": "female",
+      "age": "adulte",
+      "shippingCoast": "0.5"
+    },
+    {
+      "id": "47",
+      "name": "Maggeer Flowy Boho Long Dress",
+      "description": "Lightweight dress perfect for summer days.",
+      "colors": [
+        {
+          "colorName": "Mustard",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "false"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/47/Mustard/1.jpg",
+            "./assets/clothes/47/Mustard/2.jpg",
+            "./assets/clothes/47/Mustard/3.jpg",
+            "./assets/clothes/47/Mustard/4.jpg",
+            "./assets/clothes/47/Mustard/5.jpg"
+          ]
+        },
+        {
+          "colorName": "Red",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "false"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/47/Red/1.jpg",
+            "./assets/clothes/47/Red/2.jpg",
+            "./assets/clothes/47/Red/3.jpg",
+            "./assets/clothes/47/Red/4.jpg",
+            "./assets/clothes/47/Red/5.jpg"
+          ]
+        }
+      ],
+      "price": "49.99",
+      "nbrSold": 13,
+      "rating": 4.3,
+      "numberOfReviews": 80,
+      "gender": "female",
+      "age": "adulte",
+      "shippingCoast": "5.00"
+    },
+    {
+      "id": "5",
+      "name": "Leather Jacket",
+      "description": "Classic leather jacket for a stylish look.",
+      "colors": [
+        {
+          "colorName": "black",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/5/black/1.jpg",
+            "./assets/clothes/5/black/2.jpg",
+            "./assets/clothes/5/black/3.jpg",
+            "./assets/clothes/5/black/4.jpg"
+          ]
+        },
+        {
+          "colorName": "Blush Red",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/5/blush Red/1.jpg",
+            "./assets/clothes/5/blush Red/2.jpg",
+            "./assets/clothes/5/blush Red/3.jpg",
+            "./assets/clothes/5/blush Red/4.jpg",
+            "./assets/clothes/5/blush Red/5.jpg"
+          ]
+        }
+      ],
+      "price": "99.99",
+      "nbrSold": 4,
+      "rating": 4.7,
+      "numberOfReviews": 200,
+      "gender": "female",
+      "age": "adulte",
+      "shippingCoast": "0.00"
+    },
+    {
+      "id": "6",
+      "name": "Hoodie",
+      "description": "Cozy hoodie for chilly evenings.",
+      "colors": [
+        {
+          "colorName": "black",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/6/black/1.jpg",
+            "./assets/clothes/6/black/2.jpg",
+            "./assets/clothes/6/black/3.jpg"
+          ]
+        },
+        {
+          "colorName": "Blush Red",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/6/white/1.jpg",
+            "./assets/clothes/6/white/2.jpg",
+            "./assets/clothes/6/white/3.jpg"
+          ]
+        }
+      ],
+      "price": "34.99",
+      "nbrSold": 23,
+      "rating": 4.4,
+      "numberOfReviews": 110,
+      "gender": "male",
+      "age": "adulte"
+    },
+    {
+      "id": "7",
+      "name": "Formal Shirt",
+      "description": "Crisp formal shirt for business meetings.",
+      "colors": [
+        {
+          "colorName": "white",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/7/white/1.jpg",
+            "./assets/clothes/7/white/2.jpg",
+            "./assets/clothes/7/white/3.jpg"
+          ]
+        },
+        {
+          "colorName": "cameo blue",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/7/cameo blue/1.jpg",
+            "./assets/clothes/7/cameo blue/2.jpg",
+            "./assets/clothes/7/cameo blue/3.jpg"
+          ]
+        }
+      ],
+      "price": "59.99",
+      "nbrSold": 21,
+      "rating": 4.6,
+      "numberOfReviews": 135,
+      "gender": "male",
+      "age": "adulte",
+      "shippingCoast": "3.00"
+    },
+    {
+      "id": "8",
+      "name": "Rip Curl Men's Anti Series Departed Track Pants",
+      "description": "Comfortable track pants for workouts.",
+      "colors": [
+        {
+          "colorName": "Charcoal Marle",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/8/charcoal Marle/1.jpg",
+            "./assets/clothes/8/charcoal Marle/2.jpg",
+            "./assets/clothes/8/charcoal Marle/3.jpg"
+          ]
+        }
+      ],
+      "price": "24.99",
+      "nbrSold": 67,
+      "rating": 4,
+      "numberOfReviews": 70,
+      "gender": "male",
+      "age": "adulte",
+      "shippingCoast": "4.00"
+    },
+    {
+      "id": "9",
+      "name": "Winter Coat",
+      "description": "Warm winter coat to brave the cold.",
+      "colors": [
+        {
+          "colorName": "white",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/9/white/1.jpg",
+            "./assets/clothes/9/white/2.jpg",
+            "./assets/clothes/9/white/3.jpg"
+          ]
+        }
+      ],
+      "price": "129.99",
+      "nbrSold": 13,
+      "rating": 4.9,
+      "numberOfReviews": 180,
+      "gender": "female",
+      "age": "adulte"
+    },
+    {
+      "id": "10",
+      "name": "Casual Shorts",
+      "description": "Relaxed-fit shorts for summer adventures.",
+      "colors": [
+        {
+          "colorName": "Dusty Olive",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/10/Dusty Olive/1.jpg",
+            "./assets/clothes/10/Dusty Olive/2.jpg",
+            "./assets/clothes/10/Dusty Olive/3.jpg",
+            "./assets/clothes/10/Dusty Olive/4.jpg"
+          ]
+        },
+        {
+          "colorName": "Anthracite",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/10/Anthracite/1.jpg",
+            "./assets/clothes/10/Anthracite/2.jpg",
+            "./assets/clothes/10/Anthracite/3.jpg",
+            "./assets/clothes/10/Anthracite/4.jpg"
+          ]
+        }
+      ],
+      "price": "19.99",
+      "nbrSold": 46,
+      "rating": 4.1,
+      "numberOfReviews": 65,
+      "gender": "male",
+      "age": "adulte",
+      "shippingCoast": "3.00"
+    },
+    {
+      "id": "11",
+      "name": "The Drop Women's Blake Long Blazer",
+      "description": "Sharp blazer for formal occasions.",
+      "colors": [
+        {
+          "colorName": "black",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/11/black/1.jpg",
+            "./assets/clothes/11/black/2.jpg",
+            "./assets/clothes/11/black/3.jpg",
+            "./assets/clothes/11/black/4.jpg"
+          ]
+        },
+        {
+          "colorName": "Praline",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/11/Praline/1.jpg",
+            "./assets/clothes/11/Praline/2.jpg",
+            "./assets/clothes/11/Praline/3.jpg",
+            "./assets/clothes/11/Praline/4.jpg"
+          ]
+        }
+      ],
+      "price": "79.99",
+      "nbrSold": 6,
+      "rating": 4.5,
+      "numberOfReviews": 125,
+      "gender": "female",
+      "age": "adulte",
+      "shippingCoast": "3.00"
+    },
+    {
+      "id": "12",
+      "name": "Polo Shirt",
+      "description": "Classic polo shirt for a casual look.",
+      "colors": [
+        {
+          "colorName": "Wild Fern",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/12/Wild Fern/1.jpg",
+            "./assets/clothes/12/Wild Fern/2.jpg",
+            "./assets/clothes/12/Wild Fern/3.jpg",
+            "./assets/clothes/12/Wild Fern/4.jpg"
+          ]
+        },
+        {
+          "colorName": "Bright Cobalt",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/12/Bright Cobalt/1.jpg",
+            "./assets/clothes/12/Bright Cobalt/2.jpg",
+            "./assets/clothes/12/Bright Cobalt/3.jpg",
+            "./assets/clothes/12/Bright Cobalt/4.jpg"
+          ]
+        }
+      ],
+      "price": "29.99",
+      "nbrSold": 33,
+      "rating": 4.3,
+      "numberOfReviews": 100,
+      "gender": "male",
+      "age": "adulte",
+      "shippingCoast": "1.00"
+    },
+    {
+      "id": "13",
+      "name": "Skirt",
+      "description": "Calvin Klein Women's Petite Lux Straight Skirt",
+      "colors": [
+        {
+          "colorName": "Heather Taupe",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/13/Heather Taupe/1.jpg",
+            "./assets/clothes/13/Heather Taupe/2.jpg"
+          ]
+        },
+        {
+          "colorName": "Khaki",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/13/Khaki/1.jpg",
+            "./assets/clothes/13/Khaki/2.jpg"
+          ]
+        }
+      ],
+      "price": "39.99",
+      "nbrSold": 23,
+      "rating": 4.2,
+      "numberOfReviews": 85,
+      "gender": "female",
+      "age": "adulte",
+      "shippingCoast": "2.00"
+    },
+    {
+      "id": "14",
+      "name": "Calvin Klein Women's Long Sleeve Cardigan Shrug",
+      "description": "Lightweight cardigan for layering.",
+      "colors": [
+        {
+          "colorName": "Blossom",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/14/Blossom/1.jpg",
+            "./assets/clothes/14/Blossom/2.jpg",
+            "./assets/clothes/14/Blossom/3.jpg"
+          ]
+        },
+        {
+          "colorName": "Aubergine 3",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/14/Aubergine 3/1.jpg",
+            "./assets/clothes/14/Aubergine 3/2.jpg"
+          ]
+        }
+      ],
+      "price": "44.99",
+      "nbrSold": 7,
+      "rating": 4,
+      "numberOfReviews": 60,
+      "gender": "female",
+      "age": "adulte",
+      "shippingCoast": "5.00"
+    },
+    {
+      "id": "15",
+      "name": "Sweatpants",
+      "description": "Cozy sweatpants for lounging.",
+      "colors": [
+        {
+          "colorName": "gray",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/15/gray/1.jpg",
+            "./assets/clothes/15/gray/2.jpg",
+            "./assets/clothes/15/gray/3.jpg",
+            "./assets/clothes/15/gray/4.jpg",
+            "./assets/clothes/15/gray/5.jpg"
+          ]
+        },
+        {
+          "colorName": "black",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/15/black/1.jpg",
+            "./assets/clothes/15/black/2.jpg"
+          ]
+        }
+      ],
+      "price": "29.99",
+      "nbrSold": 22,
+      "rating": 4.6,
+      "numberOfReviews": 140,
+      "gender": "male",
+      "age": "adulte"
+    },
+    {
+      "id": "16",
+      "name": "Maxi Dress",
+      "description": "Elegant maxi dress for special occasions.",
+      "colors": [
+        {
+          "colorName": "white",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/16/white/1.jpg",
+            "./assets/clothes/16/white/2.jpg",
+            "./assets/clothes/16/white/3.jpg",
+            "./assets/clothes/16/white/4.jpg"
+          ]
+        },
+        {
+          "colorName": "Dustyblue",
+          "sizes": [
+            {
+              "name": "small",
+              "available": "true"
+            },
+            {
+              "name": "meduim",
+              "available": "true"
+            },
+            {
+              "name": "large",
+              "available": "true"
+            },
+            {
+              "name": "x-large",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/16/Dustyblue/1.jpg",
+            "./assets/clothes/16/Dustyblue/3.jpg",
+            "./assets/clothes/16/Dustyblue/2.jpg"
+          ]
+        }
+      ],
+      "price": "69.99",
+      "nbrSold": 12,
+      "rating": 4.8,
+      "numberOfReviews": 160,
+      "gender": "female",
+      "age": "adulte"
+    },
+    {
+      "id": "24",
+      "name": "adidas Sneaker Vl Court 3.0 Homme",
+      "description": "",
+      "colors": [
+        {
+          "colorName": "white",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "false"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "true"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/24/white/1.jpg",
+            "./assets/clothes/24/white/2.jpg",
+            "./assets/clothes/24/white/3.jpg",
+            "./assets/clothes/24/white/4.jpg"
+          ]
+        },
+        {
+          "colorName": "blue",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "true"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "false"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/24/blue/1.jpg",
+            "./assets/clothes/24/blue/2.jpg",
+            "./assets/clothes/24/blue/3.jpg",
+            "./assets/clothes/24/blue/4.jpg",
+            "./assets/clothes/24/blue/5.jpg"
+          ]
+        }
+      ],
+      "price": "64.20",
+      "nbrSold": 1,
+      "rating": 4.5,
+      "numberOfReviews": 113,
+      "brand": {
+        "name": "Adidas",
+        "photoUrl": "./assets/brands/adidas.png"
+      },
+      "age": "adulte",
+      "shippingCoast": "1.00"
+    },
+    {
+      "id": "17",
+      "name": "MEROKEETY Women's Ribbed Tank Tops Knit Square Neck Sleeveless Shirts Summer Casual",
+      "description": "Sleeveless tank top for hot days.",
+      "colors": [
+        {
+          "colorName": "black",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "false"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "true"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/17/black/1.jpg",
+            "./assets/clothes/17/black/2.jpg",
+            "./assets/clothes/17/black/3.jpg",
+            "./assets/clothes/17/black/4.jpg"
+          ]
+        },
+        {
+          "colorName": "pink",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "true"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "false"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/17/pink/1.jpg",
+            "./assets/clothes/17/pink/2.jpg",
+            "./assets/clothes/17/pink/3.jpg",
+            "./assets/clothes/17/pink/4.jpg"
+          ]
+        }
+      ],
+      "price": "14.99",
+      "nbrSold": 3,
+      "rating": 4.3,
+      "numberOfReviews": 75,
+      "gender": "female",
+      "age": "adulte",
+      "shippingCoast": "3.00"
+    },
+    {
+      "id": "18",
+      "name": "Red Kap Men's Industrial Cargo Pant",
+      "description": "Functional cargo pants with multiple pockets.",
+      "colors": [
+        {
+          "colorName": "Charcoal",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "false"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "true"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/18/Charcoal/1.jpg",
+            "./assets/clothes/18/Charcoal/2.jpg"
+          ]
+        },
+        {
+          "colorName": "Khaki",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "true"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "false"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/24/Khaki/1.jpg",
+            "./assets/clothes/24/Khaki/2.jpg"
+          ]
+        }
+      ],
+      "price": "49.99",
+      "nbrSold": 67,
+      "rating": 4.1,
+      "numberOfReviews": 90,
+      "gender": "male",
+      "age": "adulte",
+      "shippingCoast": "1.5"
+    },
+    {
+      "id": "19",
+      "name": "Champion Low-Cut Sports Bra",
+      "description": "Supportive sports bra for workouts.",
+      "colors": [
+        {
+          "colorName": "black",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "false"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "true"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/19/black/1.jpg",
+            "./assets/clothes/19/black/2.jpg",
+            "./assets/clothes/19/black/3.jpg"
+          ]
+        },
+        {
+          "colorName": "Khaki",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "true"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "false"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/19/white/1.jpg",
+            "./assets/clothes/19/white/2.jpg",
+            "./assets/clothes/19/white/3.jpg"
+          ]
+        }
+      ],
+      "price": "24.99",
+      "nbrSold": 23,
+      "rating": 4.7,
+      "numberOfReviews": 170,
+      "gender": "female",
+      "age": "adulte"
+    },
+    {
+      "id": "20",
+      "name": "Columbia Men's Watertight II Rain Jacket",
+      "description": "Waterproof rain jacket for rainy days.",
+      "colors": [
+        {
+          "colorName": "black",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "false"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "true"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/20/black/1.jpg",
+            "./assets/clothes/20/black/2.jpg",
+            "./assets/clothes/20/black/3.jpg",
+            "./assets/clothes/20/black/4.jpg"
+          ]
+        },
+        {
+          "colorName": "Khaki",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "true"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "false"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/19/white/1.jpg",
+            "./assets/clothes/19/white/2.jpg",
+            "./assets/clothes/19/white/3.jpg"
+          ]
+        }
+      ],
+      "price": "79.99",
+      "nbrSold": 9,
+      "rating": 4.4,
+      "numberOfReviews": 105,
+      "gender": "male",
+      "age": "adulte",
+      "shippingCoast": "2.5"
+    },
+    {
+      "id": "21",
+      "name": "Rockport Men's Garett Plain Toe Oxford",
+      "description": "A comfortable cotton T-shirt for everyday wear.",
+      "colors": [
+        {
+          "colorName": "Cognac",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "false"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "true"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/21/Cognac/1.jpg",
+            "./assets/clothes/21/Cognac/2.jpg",
+            "./assets/clothes/21/Cognac/3.jpg",
+            "./assets/clothes/21/Cognac/4.jpg"
+          ]
+        },
+        {
+          "colorName": "New Dress Blues",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "true"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "false"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/21/New Dress Blues/1.jpg",
+            "./assets/clothes/21/New Dress Blues/2.jpg",
+            "./assets/clothes/21/New Dress Blues/3.jpg",
+            "./assets/clothes/21/New Dress Blues/4.jpg"
+          ]
+        }
+      ],
+      "price": "19.99",
+      "nbrSold": 27,
+      "rating": 4.5,
+      "numberOfReviews": 120,
+      "gender": "male",
+      "age": "adulte",
+      "shippingCoast": "1.00"
+    },
+    {
+      "id": "44",
+      "name": "adidas mens Run Falcon 3.0 Shoes",
+      "description": "",
+      "colors": [
+        {
+          "colorName": "black",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "false"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 42",
+              "available": "true"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/44/black/1.jpg",
+            "./assets/clothes/44/black/2.jpg",
+            "./assets/clothes/44/black/3.jpg",
+            "./assets/clothes/44/black/4.jpg",
+            "./assets/clothes/44/black/5.jpg"
+          ]
+        },
+        {
+          "colorName": "white",
+          "sizes": [
+            {
+              "name": "EU 38",
+              "available": "false"
+            },
+            {
+              "name": "EU 38.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 39",
+              "available": "true"
+            },
+            {
+              "name": "EU 39.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 40",
+              "available": "true"
+            },
+            {
+              "name": "EU 40.5",
+              "available": "true"
+            },
+            {
+              "name": "EU 41",
+              "available": "true"
+            },
+            {
+              "name": "EU 41.5",
+              "available": "false"
+            },
+            {
+              "name": "EU 42",
+              "available": "false"
+            },
+            {
+              "name": "EU 42.5",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/44/white/1.jpg",
+            "./assets/clothes/44/white/2.jpg",
+            "./assets/clothes/44/white/3.jpg",
+            "./assets/clothes/44/white/4.jpg",
+            "./assets/clothes/44/white/5.jpg"
+          ]
+        }
+      ],
+      "price": "64.20",
+      "nbrSold": 1,
+      "rating": 4.5,
+      "numberOfReviews": 113,
+      "brand": {
+        "name": "Adidas",
+        "photoUrl": "./assets/brands/adidas.png"
+      },
+      "gender": "male",
+      "age": "adulte"
+    },
+    {
+      "id": "30",
+      "name": "The Children's Place baby-girls And Toddler Sleeveless Tank Top and Shorts 2-piece Set",
+      "description": "",
+      "colors": [
+        {
+          "colorName": "Pink Flamingo Set",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/30/Pink Flamingo Set/1.jpg",
+            "./assets/clothes/30/Pink Flamingo Set/2.jpg"
+          ]
+        },
+        {
+          "colorName": "Purple Tropical Set",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/30/Purple Tropical Set/1.jpg",
+            "./assets/clothes/30/Purple Tropical Set/2.jpg",
+            "./assets/clothes/30/Purple Tropical Set/3.jpg"
+          ]
+        }
+      ],
+      "price": "64.20",
+      "nbrSold": 1,
+      "rating": 4.5,
+      "numberOfReviews": 113,
+      "brand": {
+        "name": "Adidas",
+        "photoUrl": "./assets/brands/adidas.png"
+      },
+      "gender": "male",
+      "age": "kids",
+      "shippingCoast": "3.30"
+    },
+    {
+      "id": "31",
+      "name": "The Children's Place Kids' Family Matching, Halloween Pajama Sets, Cotton",
+      "description": "",
+      "colors": [
+        {
+          "colorName": "Glow Mummy",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/31/Glow Mummy/1.jpg",
+            "./assets/clothes/31/Glow Mummy/2.jpg"
+          ]
+        },
+        {
+          "colorName": "Pumpkin Allover",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/31/Pumpkin Allover/1.jpg",
+            "./assets/clothes/31/Pumpkin Allover/2.jpg",
+            "./assets/clothes/31/Pumpkin Allover/3.jpg"
+          ]
+        }
+      ],
+      "price": "64.20",
+      "nbrSold": 1,
+      "rating": 4.5,
+      "numberOfReviews": 113,
+      "brand": {
+        "name": "Adidas",
+        "photoUrl": "./assets/brands/adidas.png"
+      },
+      "gender": "male",
+      "age": "kids"
+    },
+    {
+      "id": "32",
+      "name": "The Children's Place Girls' Solid Skimmer Shorts",
+      "description": "",
+      "colors": [
+        {
+          "colorName": "Aqua",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/32/Aqua/1.jpg",
+            "./assets/clothes/32/Aqua/2.jpg",
+            "./assets/clothes/32/Aqua/3.jpg"
+          ]
+        },
+        {
+          "colorName": "Summer Dawn",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/32/Summer Dawn/1.jpg",
+            "./assets/clothes/32/Summer Dawn/2.jpg",
+            "./assets/clothes/32/Summer Dawn/3.jpg"
+          ]
+        }
+      ],
+      "price": "64.20",
+      "nbrSold": 1,
+      "rating": 4.5,
+      "numberOfReviews": 113,
+      "brand": {
+        "name": "Adidas",
+        "photoUrl": "./assets/brands/adidas.png"
+      },
+      "gender": "male",
+      "age": "kids",
+      "shippingCoast": "1.00"
+    },
+    {
+      "id": "33",
+      "name": "Hudson Baby Unisex Baby Cotton Sleeveless Bodysuits",
+      "description": "",
+      "colors": [
+        {
+          "colorName": "Banana split",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/33/Banana split/1.jpg"
+          ]
+        },
+        {
+          "colorName": "Beautiful sea",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/33/Beautiful sea/1.jpg"
+          ]
+        }
+      ],
+      "price": "64.20",
+      "nbrSold": 1,
+      "rating": 4.5,
+      "numberOfReviews": 113,
+      "brand": {
+        "name": "Adidas",
+        "photoUrl": "./assets/brands/adidas.png"
+      },
+      "gender": "male",
+      "age": "kids",
+      "shippingCoast": "4.50"
+    },
+    {
+      "id": "34",
+      "name": "Amazon Essentials Girls and Toddlers' Knit Skorts, Pack of 3",
+      "description": "",
+      "colors": [
+        {
+          "colorName": "Navy Floral",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/34/Navy Floral/1.jpg",
+            "./assets/clothes/34/Navy Floral/2.jpg",
+            "./assets/clothes/34/Navy Floral/3.jpg"
+          ]
+        },
+        {
+          "colorName": "Teal Blue",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/34/Teal Blue/1.jpg",
+            "./assets/clothes/34/Teal Blue/2.jpg",
+            "./assets/clothes/34/Teal Blue/3.jpg"
+          ]
+        }
+      ],
+      "price": "64.20",
+      "nbrSold": 1,
+      "rating": 4.5,
+      "numberOfReviews": 113,
+      "brand": {
+        "name": "Adidas",
+        "photoUrl": "./assets/brands/adidas.png"
+      },
+      "gender": "male",
+      "age": "kids"
+    },
+    {
+      "id": "35",
+      "name": "Burt's Bees Baby Baby Girls' Pajamas, Tee and Pant 2-Piece Pj Set, 100% Organic Cotton",
+      "description": "",
+      "colors": [
+        {
+          "colorName": "Watermelon Check",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/35/Watermelon Check/1.jpg",
+            "./assets/clothes/35/Watermelon Check/2.jpg",
+            "./assets/clothes/35/Watermelon Check/3.jpg"
+          ]
+        },
+        {
+          "colorName": "Multi diamond",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/35/Multi diamond/1.jpg",
+            "./assets/clothes/35/Multi diamond/2.jpg"
+          ]
+        }
+      ],
+      "price": "64.20",
+      "nbrSold": 1,
+      "rating": 4.5,
+      "numberOfReviews": 113,
+      "brand": {
+        "name": "Adidas",
+        "photoUrl": "./assets/brands/adidas.png"
+      },
+      "gender": "male",
+      "age": "kids"
+    },
+    {
+      "id": "36",
+      "name": "Toddler Baby Boy Clothes Shorts Set Dinosaur Print Shirt Short Sleeve Button Down Top Solid Shorts Summer Outfit",
+      "description": "",
+      "colors": [
+        {
+          "colorName": "Dinosaur Print Green",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/36/Dinosaur Print Green/1.jpg",
+            "./assets/clothes/36/Dinosaur Print Green/2.jpg",
+            "./assets/clothes/36/Dinosaur Print Green/3.jpg"
+          ]
+        },
+        {
+          "colorName": "Dinosaur Print Pink",
+          "sizes": [
+            {
+              "name": "1 year",
+              "available": "false"
+            },
+            {
+              "name": "2 years",
+              "available": "true"
+            },
+            {
+              "name": "3 years",
+              "available": "false"
+            },
+            {
+              "name": "4 years",
+              "available": "true"
+            }
+          ],
+          "photos": [
+            "./assets/clothes/36/Dinosaur Print Pink/1.jpg",
+            "./assets/clothes/36/Dinosaur Print Pink/2.jpg",
+            "./assets/clothes/36/Dinosaur Print Pink/2.jpg"
+          ]
+        }
+      ],
+      "price": "10.20",
+      "discountedPrice": "8.00",
+      "nbrSold": 1,
+      "rating": 4.5,
+      "numberOfReviews": 113,
+      "brand": {
+        "name": "Moka"
+      },
+      "gender": "male",
+      "age": "kids"
+    }
+  ],
+  "catégories": [],
+  "orders": [
+    {
+      "id": "9a35",
+      "date": "2024-06-12T12:58:17.521Z",
+      "status": "pending",
+      "orderItems": [
+        {
+          "itemId": "47",
+          "itemName": "Maggeer Flowy Boho Long Dress",
+          "color": "Mustard",
+          "colorPhotoUrl": "./assets/clothes/47/Mustard/1.jpg",
+          "size": "meduim",
+          "quantity": 1,
+          "price": "49.99",
+          "totalPrice": 49.99,
+          "shippingCoast": "5.00",
+          "totalShipping": 5
+        },
+        {
+          "itemId": "47",
+          "itemName": "Maggeer Flowy Boho Long Dress",
+          "color": "Red",
+          "colorPhotoUrl": "./assets/clothes/47/Red/1.jpg",
+          "size": "large",
+          "quantity": 1,
+          "price": "49.99",
+          "totalPrice": 49.99,
+          "shippingCoast": "5.00",
+          "totalShipping": 5
+        }
+      ],
+      "totalQuantity": 2,
+      "subTotal": 99.98,
+      "totalShipping": 10,
+      "totalPrice": 109.98
+    },
+    {
+      "id": "7f90",
+      "date": "2024-06-12",
+      "status": "completed",
+      "orderItems": [
+        {
+          "itemId": "4",
+          "itemName": "Tendy Long Sleeve Mini Dress",
+          "color": "Army Green",
+          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
+          "size": "meduim",
+          "quantity": 2,
+          "price": "49.99",
+          "totalPrice": 99.98,
+          "shippingCoast": "0.5",
+          "totalShipping": 1
+        }
+      ],
+      "totalQuantity": 2,
+      "subTotal": 99.98,
+      "totalShipping": 2,
+      "totalPrice": 101.98
+    },
+    {
+      "id": "087f",
+      "date": "2024-06-13T10:24:06.579Z",
+      "status": "pending",
+      "orderItems": [
+        {
+          "itemId": "31",
+          "itemName": "The Children's Place Kids' Family Matching, Halloween Pajama Sets, Cotton",
+          "color": "Glow Mummy",
+          "colorPhotoUrl": "./assets/clothes/31/Glow Mummy/1.jpg",
+          "size": "2 years",
+          "quantity": 2,
+          "price": "64.20",
+          "totalPrice": 128.4,
+          "shippingCoast": 0,
+          "totalShipping": 0
+        }
+      ],
+      "totalQuantity": 2,
+      "subTotal": 128.4,
+      "totalShipping": 0,
+      "totalPrice": 128.4
+    },
+    {
+      "id": "02a2",
+      "date": "2024-06-13T10:24:48.992Z",
+      "status": "shipped",
+      "orderItems": [
+        {
+          "itemId": "4",
+          "itemName": "Tendy Long Sleeve Mini Dress",
+          "color": "Army Green",
+          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
+          "size": "meduim",
+          "quantity": 1,
+          "price": "49.99",
+          "totalPrice": 49.99,
+          "shippingCoast": "0.5",
+          "totalShipping": 0.5
+        },
+        {
+          "itemId": "4",
+          "itemName": "Tendy Long Sleeve Mini Dress",
+          "color": "Army Green",
+          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
+          "size": "x-large",
+          "quantity": 1,
+          "price": "49.99",
+          "totalPrice": 49.99,
+          "shippingCoast": "0.5",
+          "totalShipping": 0.5
+        }
+      ],
+      "totalQuantity": 2,
+      "subTotal": 99.98,
+      "totalShipping": 1,
+      "totalPrice": 100.98
+    },
+    {
+      "id": "b68a",
+      "date": "2024-06-13T10:30:27.028Z",
+      "status": "cancelled",
+      "orderItems": [
+        {
+          "itemId": "5",
+          "itemName": "Leather Jacket ",
+          "color": "Blush Red",
+          "colorPhotoUrl": "./assets/clothes/5/blush Red/1.jpg",
+          "size": "meduim",
+          "quantity": 1,
+          "price": "99.99",
+          "totalPrice": 99.99,
+          "shippingCoast": "0.00",
+          "totalShipping": 0
+        }
+      ],
+      "totalQuantity": 1,
+      "subTotal": 99.99,
+      "totalShipping": 0,
+      "totalPrice": 99.99
+    },
+    {
+      "id": "0439",
+      "date": "2024-06-13T10:31:10.090Z",
+      "status": "pending",
+      "orderItems": [
+        {
+          "itemId": "14",
+          "itemName": "Calvin Klein Women's Long Sleeve Cardigan Shrug",
+          "color": "Blossom",
+          "colorPhotoUrl": "./assets/clothes/14/Blossom/1.jpg",
+          "size": "meduim",
+          "quantity": 1,
+          "price": "44.99",
+          "totalPrice": 44.99,
+          "shippingCoast": "5.00",
+          "totalShipping": 5
+        }
+      ],
+      "totalQuantity": 1,
+      "subTotal": 44.99,
+      "totalShipping": 5,
+      "totalPrice": 49.99
+    },
+    {
+      "id": "6403",
+      "date": "2024-06-13T10:32:06.099Z",
+      "status": "pending",
+      "orderItems": [
+        {
+          "itemId": "4",
+          "itemName": "Tendy Long Sleeve Mini Dress",
+          "color": "Army Green",
+          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
+          "size": "meduim",
+          "quantity": 1,
+          "price": "49.99",
+          "totalPrice": 49.99,
+          "shippingCoast": "0.5",
+          "totalShipping": 0.5
+        }
+      ],
+      "totalQuantity": 1,
+      "subTotal": 49.99,
+      "totalShipping": 0.5,
+      "totalPrice": 50.49
+    },
+    {
+      "id": "44a3",
+      "date": "2024-05-28T09:57:55.452Z",
+      "status": "pending",
+      "orderItems": [
+        {
+          "itemId": "4",
+          "itemName": "Tendy Long Sleeve Mini Dress",
+          "color": "Army Green",
+          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
+          "size": "meduim",
+          "quantity": 1,
+          "price": "49.99",
+          "totalPrice": 49.99,
+          "shippingCoast": "0.5",
+          "totalShipping": 0.5
+        },
+        {
+          "itemId": "4",
+          "itemName": "Tendy Long Sleeve Mini Dress",
+          "color": "Army Green",
+          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
+          "size": "x-large",
+          "quantity": 1,
+          "price": "49.99",
+          "totalPrice": 49.99,
+          "shippingCoast": "0.5",
+          "totalShipping": 0.5
+        }
+      ],
+      "totalQuantity": 2,
+      "subTotal": 99.98,
+      "totalShipping": 1,
+      "totalPrice": 100.98
+    },
+    {
+      "id": "4e41",
+      "date": "2024-06-19T10:10:49.781Z",
+      "status": "pending",
+      "orderItems": [
+        {
+          "itemId": "4",
+          "itemName": "Tendy Long Sleeve Mini Dress",
+          "color": "Army Green",
+          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
+          "size": "meduim",
+          "quantity": 2,
+          "price": "49.99",
+          "totalPrice": 149.97,
+          "shippingCoast": "0.5",
+          "totalShipping": 0.5
+        }
+      ],
+      "totalQuantity": 2,
+      "subTotal": 99.98,
+      "totalShipping": 1,
+      "totalPrice": 100.98
+    },
+    {
+      "id": "a531",
+      "date": "2024-06-24T12:39:53.298Z",
+      "status": "pending",
+      "orderItems": [
+        {
+          "itemId": "17",
+          "itemName": "MEROKEETY Women's Ribbed Tank Tops Knit Square Neck Sleeveless Shirts Summer Casual",
+          "color": "black",
+          "colorPhotoUrl": "./assets/clothes/17/black/1.jpg",
+          "size": "EU 38.5",
+          "quantity": 1,
+          "price": "14.99",
+          "totalPrice": 14.99,
+          "shippingCoast": "3.00",
+          "totalShipping": 3
+        }
+      ],
+      "totalQuantity": 1,
+      "subTotal": 14.99,
+      "totalShipping": 3,
+      "totalPrice": 17.990000000000002
+    },
+    {
+      "id": "e824",
+      "date": "2024-06-27T12:08:37.621Z",
+      "status": "pending",
+      "orderItems": [
+        {
+          "itemId": "4",
+          "itemName": "Tendy Long Sleeve Mini Dress",
+          "color": "Army Green",
+          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
+          "size": "meduim",
+          "quantity": 1,
+          "price": "49.99",
+          "totalPrice": 49.99,
+          "shippingCoast": "0.5",
+          "totalShipping": 0.5
+        },
+        {
+          "itemId": "4",
+          "itemName": "Tendy Long Sleeve Mini Dress",
+          "color": "Army Green",
+          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
+          "size": "x-large",
+          "quantity": 2,
+          "price": "49.99",
+          "totalPrice": 99.98,
+          "shippingCoast": "0.5",
+          "totalShipping": 1
+        }
+      ],
+      "totalQuantity": 3,
+      "subTotal": 149.97,
+      "totalShipping": 2.5,
+      "totalPrice": 152.47
+    },
+    {
+      "id": "9c9f",
+      "date": "2024-06-29T14:50:50.198Z",
+      "status": "pending",
+      "orderItems": [
+        {
+          "itemId": "5",
+          "itemName": "Leather Jacket",
+          "color": "black",
+          "colorPhotoUrl": "./assets/clothes/5/black/1.jpg",
+          "size": "small",
+          "quantity": 3,
+          "price": "99.99",
+          "totalPrice": 299.96999999999997,
+          "shippingCoast": "0.00",
+          "totalShipping": 0
+        },
+        {
+          "itemId": "9",
+          "itemName": "Winter Coat",
+          "color": "white",
+          "colorPhotoUrl": "./assets/clothes/9/white/1.jpg",
+          "size": "small",
+          "quantity": 3,
+          "price": "129.99",
+          "totalPrice": 389.97,
+          "shippingCoast": 0,
+          "totalShipping": 0
+        }
+      ],
+      "totalQuantity": 6,
+      "subTotal": 689.94,
+      "totalShipping": 0,
+      "totalPrice": 689.94
+    },
+    {
+      "id": "95e5",
+      "date": "2024-06-29T18:19:05.175Z",
+      "status": "pending",
+      "orderItems": [
+        {
+          "itemId": "4",
+          "itemName": "Tendy Long Sleeve Mini Dress",
+          "color": "Army Green",
+          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
+          "size": "small",
+          "quantity": 1,
+          "price": "49.99",
+          "totalPrice": 49.99,
+          "shippingCoast": "0.5",
+          "totalShipping": 0.5
+        },
+        {
+          "itemId": "47",
+          "itemName": "Maggeer Flowy Boho Long Dress",
+          "color": "Mustard",
+          "colorPhotoUrl": "./assets/clothes/47/Mustard/1.jpg",
+          "size": "small",
+          "quantity": 2,
+          "price": "49.99",
+          "totalPrice": 149.97,
+          "shippingCoast": "5.00",
+          "totalShipping": 5
+        },
+        {
+          "itemId": "5",
+          "itemName": "Leather Jacket",
+          "color": "black",
+          "colorPhotoUrl": "./assets/clothes/5/black/1.jpg",
+          "size": "small",
+          "quantity": 1,
+          "price": "99.99",
+          "totalPrice": 99.99,
+          "shippingCoast": "0.00",
+          "totalShipping": 0
+        }
+      ],
+      "totalQuantity": 4,
+      "subTotal": 249.95999999999998,
+      "totalShipping": 10.5,
+      "totalPrice": 260.46
+    },
+    {
+      "id": "d001",
+      "date": "2024-06-30T09:08:28.302Z",
+      "status": "pending",
+      "orderItems": [
+        {
+          "itemId": "0",
+          "itemName": "Nike Go FlyEase",
+          "color": "black",
+          "colorPhotoUrl": "./assets/clothes/0/black/1.jpg",
+          "size": "EU 38",
+          "quantity": 1,
+          "price": "50.00",
+          "totalPrice": 50,
+          "shippingCoast": "4.00",
+          "totalShipping": 4
+        }
+      ],
+      "totalQuantity": 1,
+      "subTotal": 50,
+      "totalShipping": 4,
+      "totalPrice": 54
+    }
+  ]
+}
