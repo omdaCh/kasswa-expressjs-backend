@@ -64,6 +64,28 @@ app.get('/api/items/search/:searchText', (req: Request, res: Response) => {
   res.json(filteredItems);
 })
 
+app.get('/api/items', (req: Request, res: Response) => {
+  const { gender, age, _page = 1, _limit = 5 } = req.query;
+
+  let filteredItems = items;
+
+  // Filter by gender and age
+  if (gender) {
+    filteredItems = filteredItems.filter(item => item.gender === gender);
+  }
+
+  if (age) {
+    filteredItems = filteredItems.filter(item => item.age === age);
+  }
+
+  // Paginate results
+  const startIndex = ((Number(_page) - 1) * Number(_limit));
+  const endIndex = startIndex + Number(_limit);
+  const paginatedItems = filteredItems.slice(startIndex, endIndex);
+
+  res.json(paginatedItems);
+});
+
 app.get("/", (req: Request, res: Response) => {
   res.send("My first express typescript applicationd");
 });
