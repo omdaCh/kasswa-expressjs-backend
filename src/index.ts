@@ -10,6 +10,7 @@ import { json } from "stream/consumers";
 dotenv.config();
 
 const app: Express = express();
+export default app;
 const port = process.env.PORT || 3000;
 
 app.use(cors()); // Enable CORS for all routes
