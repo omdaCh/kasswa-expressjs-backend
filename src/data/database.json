@@ -2415,71 +2415,35 @@
       "age": "kids"
     }
   ],
-  "catégories": [],
   "orders": [
     {
-      "id": "9a35",
-      "date": "2024-06-12T12:58:17.521Z",
+      "date": "2024-09-05T13:19:52.871Z",
       "status": "pending",
       "orderItems": [
         {
-          "itemId": "47",
-          "itemName": "Maggeer Flowy Boho Long Dress",
-          "color": "Mustard",
-          "colorPhotoUrl": "./assets/clothes/47/Mustard/1.jpg",
+          "itemId": "6",
+          "itemName": "Hoodie",
+          "color": "black",
+          "colorPhotoUrl": "./assets/clothes/6/black/1.jpg",
           "size": "meduim",
-          "quantity": 1,
-          "price": "49.99",
-          "totalPrice": 49.99,
-          "shippingCoast": "5.00",
-          "totalShipping": 5
+          "quantity": 3,
+          "price": "34.99",
+          "totalPrice": 104.97,
+          "shippingCoast": 0,
+          "totalShipping": 0
         },
         {
-          "itemId": "47",
-          "itemName": "Maggeer Flowy Boho Long Dress",
-          "color": "Red",
-          "colorPhotoUrl": "./assets/clothes/47/Red/1.jpg",
-          "size": "large",
-          "quantity": 1,
-          "price": "49.99",
-          "totalPrice": 49.99,
-          "shippingCoast": "5.00",
-          "totalShipping": 5
-        }
-      ],
-      "totalQuantity": 2,
-      "subTotal": 99.98,
-      "totalShipping": 10,
-      "totalPrice": 109.98
-    },
-    {
-      "id": "7f90",
-      "date": "2024-06-12",
-      "status": "completed",
-      "orderItems": [
-        {
-          "itemId": "4",
-          "itemName": "Tendy Long Sleeve Mini Dress",
-          "color": "Army Green",
-          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
-          "size": "meduim",
-          "quantity": 2,
-          "price": "49.99",
-          "totalPrice": 99.98,
-          "shippingCoast": "0.5",
-          "totalShipping": 1
-        }
-      ],
-      "totalQuantity": 2,
-      "subTotal": 99.98,
-      "totalShipping": 2,
-      "totalPrice": 101.98
-    },
-    {
-      "id": "087f",
-      "date": "2024-06-13T10:24:06.579Z",
-      "status": "pending",
-      "orderItems": [
+          "itemId": "0",
+          "itemName": "Nike Go FlyEase",
+          "color": "black",
+          "colorPhotoUrl": "./assets/clothes/0/black/1.jpg",
+          "size": "EU 41",
+          "quantity": 3,
+          "price": "50.00",
+          "totalPrice": 150,
+          "shippingCoast": "4.00",
+          "totalShipping": 12
+        },
         {
           "itemId": "31",
           "itemName": "The Children's Place Kids' Family Matching, Halloween Pajama Sets, Cotton",
@@ -2491,337 +2455,106 @@
           "totalPrice": 128.4,
           "shippingCoast": 0,
           "totalShipping": 0
-        }
-      ],
-      "totalQuantity": 2,
-      "subTotal": 128.4,
-      "totalShipping": 0,
-      "totalPrice": 128.4
-    },
-    {
-      "id": "02a2",
-      "date": "2024-06-13T10:24:48.992Z",
-      "status": "shipped",
-      "orderItems": [
-        {
-          "itemId": "4",
-          "itemName": "Tendy Long Sleeve Mini Dress",
-          "color": "Army Green",
-          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
-          "size": "meduim",
-          "quantity": 1,
-          "price": "49.99",
-          "totalPrice": 49.99,
-          "shippingCoast": "0.5",
-          "totalShipping": 0.5
         },
         {
-          "itemId": "4",
-          "itemName": "Tendy Long Sleeve Mini Dress",
-          "color": "Army Green",
-          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
-          "size": "x-large",
-          "quantity": 1,
-          "price": "49.99",
-          "totalPrice": 49.99,
-          "shippingCoast": "0.5",
-          "totalShipping": 0.5
-        }
-      ],
-      "totalQuantity": 2,
-      "subTotal": 99.98,
-      "totalShipping": 1,
-      "totalPrice": 100.98
-    },
-    {
-      "id": "b68a",
-      "date": "2024-06-13T10:30:27.028Z",
-      "status": "cancelled",
-      "orderItems": [
-        {
-          "itemId": "5",
-          "itemName": "Leather Jacket ",
-          "color": "Blush Red",
-          "colorPhotoUrl": "./assets/clothes/5/blush Red/1.jpg",
-          "size": "meduim",
-          "quantity": 1,
-          "price": "99.99",
-          "totalPrice": 99.99,
-          "shippingCoast": "0.00",
-          "totalShipping": 0
-        }
-      ],
-      "totalQuantity": 1,
-      "subTotal": 99.99,
-      "totalShipping": 0,
-      "totalPrice": 99.99
-    },
-    {
-      "id": "0439",
-      "date": "2024-06-13T10:31:10.090Z",
-      "status": "pending",
-      "orderItems": [
-        {
-          "itemId": "14",
-          "itemName": "Calvin Klein Women's Long Sleeve Cardigan Shrug",
-          "color": "Blossom",
-          "colorPhotoUrl": "./assets/clothes/14/Blossom/1.jpg",
-          "size": "meduim",
-          "quantity": 1,
-          "price": "44.99",
-          "totalPrice": 44.99,
-          "shippingCoast": "5.00",
-          "totalShipping": 5
-        }
-      ],
-      "totalQuantity": 1,
-      "subTotal": 44.99,
-      "totalShipping": 5,
-      "totalPrice": 49.99
-    },
-    {
-      "id": "6403",
-      "date": "2024-06-13T10:32:06.099Z",
-      "status": "pending",
-      "orderItems": [
-        {
-          "itemId": "4",
-          "itemName": "Tendy Long Sleeve Mini Dress",
-          "color": "Army Green",
-          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
-          "size": "meduim",
-          "quantity": 1,
-          "price": "49.99",
-          "totalPrice": 49.99,
-          "shippingCoast": "0.5",
-          "totalShipping": 0.5
-        }
-      ],
-      "totalQuantity": 1,
-      "subTotal": 49.99,
-      "totalShipping": 0.5,
-      "totalPrice": 50.49
-    },
-    {
-      "id": "44a3",
-      "date": "2024-05-28T09:57:55.452Z",
-      "status": "pending",
-      "orderItems": [
-        {
-          "itemId": "4",
-          "itemName": "Tendy Long Sleeve Mini Dress",
-          "color": "Army Green",
-          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
-          "size": "meduim",
-          "quantity": 1,
-          "price": "49.99",
-          "totalPrice": 49.99,
-          "shippingCoast": "0.5",
-          "totalShipping": 0.5
-        },
-        {
-          "itemId": "4",
-          "itemName": "Tendy Long Sleeve Mini Dress",
-          "color": "Army Green",
-          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
-          "size": "x-large",
-          "quantity": 1,
-          "price": "49.99",
-          "totalPrice": 49.99,
-          "shippingCoast": "0.5",
-          "totalShipping": 0.5
-        }
-      ],
-      "totalQuantity": 2,
-      "subTotal": 99.98,
-      "totalShipping": 1,
-      "totalPrice": 100.98
-    },
-    {
-      "id": "4e41",
-      "date": "2024-06-19T10:10:49.781Z",
-      "status": "pending",
-      "orderItems": [
-        {
-          "itemId": "4",
-          "itemName": "Tendy Long Sleeve Mini Dress",
-          "color": "Army Green",
-          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
-          "size": "meduim",
-          "quantity": 2,
-          "price": "49.99",
-          "totalPrice": 149.97,
-          "shippingCoast": "0.5",
-          "totalShipping": 0.5
-        }
-      ],
-      "totalQuantity": 2,
-      "subTotal": 99.98,
-      "totalShipping": 1,
-      "totalPrice": 100.98
-    },
-    {
-      "id": "a531",
-      "date": "2024-06-24T12:39:53.298Z",
-      "status": "pending",
-      "orderItems": [
-        {
-          "itemId": "17",
-          "itemName": "MEROKEETY Women's Ribbed Tank Tops Knit Square Neck Sleeveless Shirts Summer Casual",
-          "color": "black",
-          "colorPhotoUrl": "./assets/clothes/17/black/1.jpg",
-          "size": "EU 38.5",
-          "quantity": 1,
-          "price": "14.99",
-          "totalPrice": 14.99,
-          "shippingCoast": "3.00",
-          "totalShipping": 3
-        }
-      ],
-      "totalQuantity": 1,
-      "subTotal": 14.99,
-      "totalShipping": 3,
-      "totalPrice": 17.990000000000002
-    },
-    {
-      "id": "e824",
-      "date": "2024-06-27T12:08:37.621Z",
-      "status": "pending",
-      "orderItems": [
-        {
-          "itemId": "4",
-          "itemName": "Tendy Long Sleeve Mini Dress",
-          "color": "Army Green",
-          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
-          "size": "meduim",
-          "quantity": 1,
-          "price": "49.99",
-          "totalPrice": 49.99,
-          "shippingCoast": "0.5",
-          "totalShipping": 0.5
-        },
-        {
-          "itemId": "4",
-          "itemName": "Tendy Long Sleeve Mini Dress",
-          "color": "Army Green",
-          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
-          "size": "x-large",
-          "quantity": 2,
-          "price": "49.99",
-          "totalPrice": 99.98,
-          "shippingCoast": "0.5",
-          "totalShipping": 1
-        }
-      ],
-      "totalQuantity": 3,
-      "subTotal": 149.97,
-      "totalShipping": 2.5,
-      "totalPrice": 152.47
-    },
-    {
-      "id": "9c9f",
-      "date": "2024-06-29T14:50:50.198Z",
-      "status": "pending",
-      "orderItems": [
-        {
-          "itemId": "5",
-          "itemName": "Leather Jacket",
-          "color": "black",
-          "colorPhotoUrl": "./assets/clothes/5/black/1.jpg",
-          "size": "small",
-          "quantity": 3,
-          "price": "99.99",
-          "totalPrice": 299.96999999999997,
-          "shippingCoast": "0.00",
-          "totalShipping": 0
-        },
-        {
-          "itemId": "9",
-          "itemName": "Winter Coat",
+          "itemId": "16",
+          "itemName": "Maxi Dress",
           "color": "white",
-          "colorPhotoUrl": "./assets/clothes/9/white/1.jpg",
-          "size": "small",
-          "quantity": 3,
-          "price": "129.99",
-          "totalPrice": 389.97,
+          "colorPhotoUrl": "./assets/clothes/16/white/1.jpg",
+          "size": "large",
+          "quantity": 2,
+          "price": "69.99",
+          "totalPrice": 139.98,
           "shippingCoast": 0,
           "totalShipping": 0
         }
       ],
-      "totalQuantity": 6,
-      "subTotal": 689.94,
-      "totalShipping": 0,
-      "totalPrice": 689.94
+      "totalQuantity": 10,
+      "subTotal": 523.35,
+      "totalShipping": 36,
+      "totalPrice": 559.35,
+      "id": 0
     },
     {
-      "id": "95e5",
-      "date": "2024-06-29T18:19:05.175Z",
-      "status": "pending",
+      "date": "2024-08-10T17:52:50.497Z",
+      "status": "cancelled",
       "orderItems": [
-        {
-          "itemId": "4",
-          "itemName": "Tendy Long Sleeve Mini Dress",
-          "color": "Army Green",
-          "colorPhotoUrl": "./assets/clothes/4/Army Green/1.jpg",
-          "size": "small",
-          "quantity": 1,
-          "price": "49.99",
-          "totalPrice": 49.99,
-          "shippingCoast": "0.5",
-          "totalShipping": 0.5
-        },
         {
           "itemId": "47",
           "itemName": "Maggeer Flowy Boho Long Dress",
           "color": "Mustard",
           "colorPhotoUrl": "./assets/clothes/47/Mustard/1.jpg",
-          "size": "small",
-          "quantity": 2,
+          "size": "meduim",
+          "quantity": 1,
           "price": "49.99",
-          "totalPrice": 149.97,
+          "totalPrice": 49.99,
           "shippingCoast": "5.00",
           "totalShipping": 5
-        },
-        {
-          "itemId": "5",
-          "itemName": "Leather Jacket",
-          "color": "black",
-          "colorPhotoUrl": "./assets/clothes/5/black/1.jpg",
-          "size": "small",
-          "quantity": 1,
-          "price": "99.99",
-          "totalPrice": 99.99,
-          "shippingCoast": "0.00",
-          "totalShipping": 0
-        }
-      ],
-      "totalQuantity": 4,
-      "subTotal": 249.95999999999998,
-      "totalShipping": 10.5,
-      "totalPrice": 260.46
-    },
-    {
-      "id": "d001",
-      "date": "2024-06-30T09:08:28.302Z",
-      "status": "pending",
-      "orderItems": [
-        {
-          "itemId": "0",
-          "itemName": "Nike Go FlyEase",
-          "color": "black",
-          "colorPhotoUrl": "./assets/clothes/0/black/1.jpg",
-          "size": "EU 38",
-          "quantity": 1,
-          "price": "50.00",
-          "totalPrice": 50,
-          "shippingCoast": "4.00",
-          "totalShipping": 4
         }
       ],
       "totalQuantity": 1,
-      "subTotal": 50,
-      "totalShipping": 4,
-      "totalPrice": 54
+      "subTotal": 49.99,
+      "totalShipping": 5,
+      "totalPrice": 54.99,
+      "id": 1
+    },
+    {
+      "date": "2024-02-06T17:53:03.258Z",
+      "status": "completed",
+      "orderItems": [
+        {
+          "itemId": "6",
+          "itemName": "Hoodie",
+          "color": "black",
+          "colorPhotoUrl": "./assets/clothes/6/black/1.jpg",
+          "size": "large",
+          "quantity": 1,
+          "price": "34.99",
+          "totalPrice": 34.99,
+          "shippingCoast": 0,
+          "totalShipping": 0
+        }
+      ],
+      "totalQuantity": 1,
+      "subTotal": 34.99,
+      "totalShipping": 0,
+      "totalPrice": 34.99,
+      "id": 2
+    },
+    {
+      "date": "2024-06-06T17:53:29.130Z",
+      "status": "shipped",
+      "orderItems": [
+        {
+          "itemId": "15",
+          "itemName": "Sweatpants",
+          "color": "gray",
+          "colorPhotoUrl": "./assets/clothes/15/gray/1.jpg",
+          "size": "small",
+          "quantity": 1,
+          "price": "29.99",
+          "totalPrice": 29.99,
+          "shippingCoast": 0,
+          "totalShipping": 0
+        },
+        {
+          "itemId": "21",
+          "itemName": "Rockport Men's Garett Plain Toe Oxford",
+          "color": "Cognac",
+          "colorPhotoUrl": "./assets/clothes/21/Cognac/1.jpg",
+          "size": "EU 42",
+          "quantity": 1,
+          "price": "19.99",
+          "totalPrice": 19.99,
+          "shippingCoast": "1.00",
+          "totalShipping": 1
+        }
+      ],
+      "totalQuantity": 2,
+      "subTotal": 49.98,
+      "totalShipping": 1,
+      "totalPrice": 50.98,
+      "id": 3
     }
   ]
 }
