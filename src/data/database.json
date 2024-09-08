@@ -2555,6 +2555,56 @@
       "totalShipping": 1,
       "totalPrice": 50.98,
       "id": 3
+    },
+    {
+      "date": "2024-09-08T07:55:44.002Z",
+      "status": "pending",
+      "orderItems": [
+        {
+          "itemId": "2",
+          "itemName": "Wrangler Authentics Men's Classic 5-Pocket Regular Fit Flex Jean",
+          "color": "blue",
+          "colorPhotoUrl": "./assets/clothes/2/blue/1.jpg",
+          "size": "EU 41",
+          "quantity": 1,
+          "price": "39.99",
+          "totalPrice": 39.99,
+          "shippingCoast": "5.1",
+          "totalShipping": 5.1
+        },
+        {
+          "itemId": "2",
+          "itemName": "Wrangler Authentics Men's Classic 5-Pocket Regular Fit Flex Jean",
+          "color": "white",
+          "colorPhotoUrl": "./assets/clothes/2/white/1.jpg",
+          "size": "EU 39",
+          "quantity": 1,
+          "price": "39.99",
+          "totalPrice": 39.99,
+          "shippingCoast": "5.1",
+          "totalShipping": 5.1
+        }
+      ],
+      "totalQuantity": 2,
+      "subTotal": 79.98,
+      "totalShipping": 10.2,
+      "totalPrice": 90.18,
+      "id": 9
+    },
+    {
+      "status": "pending",
+      "date": "2024-09-08T09:26:44.283Z",
+      "id": 5
+    },
+    {
+      "status": "pending",
+      "date": "2024-09-08T09:26:48.923Z",
+      "id": 6
+    },
+    {
+      "status": "pending",
+      "date": "2024-09-08T09:27:09.864Z",
+      "id": 7
     }
   ]
 }

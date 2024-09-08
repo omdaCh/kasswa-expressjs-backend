@@ -156,6 +156,10 @@ app.get("/", (req: Request, res: Response) => {
   res.send("My first express typescript applicationd");
 });
 
-app.listen(port, () => {
-  console.log(`[server]: Server is running at http://localhost:${port}`);
-});
+
+// Start the server only when not in test mode
+if (require.main === module) {
+  app.listen(port, () => {
+    console.log(`[server]: Server is running at http://localhost:${port}`);
+  });
+}
