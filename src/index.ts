@@ -26,6 +26,7 @@ let orders: Order[] = [];
 try {
   const rawData = fs.readFileSync(dataPath, 'utf-8');
   const jsonData = JSON.parse(rawData);
+  console.log('database.json content = ' + JSON.stringify(jsonData));
   items = jsonData.items;  // Assuming the JSON file has an "items" key
   orders = jsonData.orders;
 } catch (error) {
