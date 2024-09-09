@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "npx tsc && npm run copy-data",
-    "copy-data": "copyfiles -u 1 src/data/**/* dist/data",
+    "copy-data": "copyfiles -u 1 src/data/**/* dist/",
     "start": "node dist/index.js",
     "dev": "nodemon src/index.ts",
     "test": "jest",

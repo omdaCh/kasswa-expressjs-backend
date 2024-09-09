@@ -18,6 +18,8 @@ app.use(express.json());
 
 // / Load items from JSON file
 const dataPath = path.join(__dirname, 'data', 'database.json');
+
+console.log("__dirname = "+__dirname);
 let items: IItem[] = [];
 let orders: Order[] = [];
 
