@@ -1,10 +1,10 @@
 import express, { Express, Request, Response } from "express";
 import dotenv from "dotenv";
-import path from 'path';
 import cors from 'cors'
 import mongoose, { Schema } from 'mongoose';
 import MngOrder from './mng-schema/order_schema'
 import { MngItem } from "./mng-schema/item_shema";
+
 
 dotenv.config();
 
@@ -12,7 +12,11 @@ const app: Express = express();
 export default app;
 const port = process.env.PORT || 3000;
 
-const mongoDbUri = 'mongodb+srv://chemakhiimad:seH8BNMNxndoYCG4@cluster0.bmg9q.mongodb.net/kasswa?retryWrites=true&w=majority&appName=Cluster0';
+const mongoDbUri = process.env.MONGODB_URI;
+
+if(!mongoDbUri){
+  throw new Error('MongoDB URI is not defined in environment variables')
+}
 
 // Connect to MongoDB
 mongoose.connect(mongoDbUri)
