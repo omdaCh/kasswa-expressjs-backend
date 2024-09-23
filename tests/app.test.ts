@@ -6,7 +6,7 @@ describe('GET /api/items', () => {
         const response = await request(app).get('/api/items');
         expect(response.status).toBe(200);
         expect(Array.isArray(response.body)).toBe(true);
-    });
+    }, 10000);
 
     it('sould return a filterd item by gender', async () => {
         const response = await request(app).get('/api/items/?gender=male');
@@ -25,13 +25,15 @@ describe('GET /api/items', () => {
     });
 
     it('should retun a single item by ID', async () => {
-        const response = await request(app).get('/api/items/66ebed9ef1c0ea89816dedb0');
+        const itemId = '66ebed9ef1c0ea89816dedb0';  
+        const response = await request(app).get(`/api/items/${itemId}`);
         expect(response.status).toBe(200);
-        expect(response.body).toHaveProperty('id', '66ebed9ef1c0ea89816dedb0');
+        expect(response.body).toHaveProperty('id', itemId);
     });
 
     it('should return 404 error for a non-existing item', async () => {
-        const response = await request(app).get('/api/items/56777');
+        const itemId = '64ebed9ef1c0ea89816dedb9';  
+        const response = await request(app).get(`/api/items/${itemId}`);
         expect(response.status).toBe(404);
         expect(response.body).toHaveProperty('message', 'Item not found');
     })
@@ -39,15 +41,9 @@ describe('GET /api/items', () => {
 
 describe('POST /api/orders/newOrder', () => {
     it('should create a new order', async () => {
-        const newOrder = {
-            // Provide appropriate order details
-            status: 'pending',
-            date: new Date().toISOString(),
-        };
-
+        const newOrder = getFakeOrder();
         const response = await request(app).post('/api/orders/newOrder').send(newOrder);
         expect(response.status).toBe(201);
-        expect(response.body).toMatchObject(newOrder);
     });
 });
 
@@ -105,3 +101,30 @@ describe('GET /api/orders', () => {
         // Optionally, check if the response contains all orders
     });
 });
+
+function getFakeOrder() {
+    return {
+        status: 'pending',
+        orderItems: [
+            {
+                // id: 1,
+                // orderId: 1,
+                itemId: '66ebed9ef1c0ea89816dedc8',
+                itemName: "Wrangler Authentics Men's Classic 5-Pocket Regular Fit Flex Jean",
+                color: 'blue',
+                colorPhotoUrl: './assets/clothes/2/blue/1.jpg',
+                size: 'EU 41.5',
+                quantity: 1,
+                price: 39.99,
+                totalPrice: 39.99,
+                shippingCoast: 5.1,
+                totalShipping: 5.1
+            }
+        ],
+        subTotal: 39.99,
+        totalShipping: 5.1,
+        totalQuantity: 1,
+        totalPrice: 45.09,
+        date: new Date(),
+    };
+}

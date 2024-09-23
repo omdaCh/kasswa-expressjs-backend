@@ -35,7 +35,7 @@ app.get('/api/items', async (req: Request, res: Response) => {
       query.age = age;
     }
 
-    const items = await MngItem.find(query);  
+    const items = await MngItem.find(query);
 
     res.json(items);
   } catch (error) {
@@ -46,6 +46,11 @@ app.get('/api/items', async (req: Request, res: Response) => {
 
 app.get('/api/items/:id', async (req: Request, res: Response) => {
   const { id } = req.params;
+
+  // Check if the provided ID is a valid MongoDB ObjectId
+  if (!mongoose.Types.ObjectId.isValid(id)) {
+    return res.status(400).json({ error: 'Invalid item ID format.' });
+  }
 
   try {
     const item = await MngItem.findById(id);
