@@ -25,9 +25,9 @@ describe('GET /api/items', () => {
     });
 
     it('should retun a single item by ID', async () => {
-        const response = await request(app).get('/api/items/2');
+        const response = await request(app).get('/api/items/66ebed9ef1c0ea89816dedb0');
         expect(response.status).toBe(200);
-        expect(response.body).toHaveProperty('id', '2');
+        expect(response.body).toHaveProperty('id', '66ebed9ef1c0ea89816dedb0');
     });
 
     it('should return 404 error for a non-existing item', async () => {
