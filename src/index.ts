@@ -15,7 +15,7 @@ const port = process.env.PORT || 3000;
 const mongoDbUri = process.env.MONGODB_URI;
 
 if(!mongoDbUri){
-  throw new Error('MongoDB URI is not defined in environment variables')
+  throw new Error('MongoDB URI is not defined in environment variables ')
 }
 
 // Connect to MongoDB
