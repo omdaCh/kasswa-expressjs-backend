@@ -10,7 +10,7 @@ dotenv.config();
 
 const app: Express = express();
 export default app;
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8080;
 
 const mongoDbUri = process.env.MONGODB_URI;
 
