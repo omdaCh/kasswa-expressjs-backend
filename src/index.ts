@@ -14,8 +14,8 @@ const port = process.env.PORT || 3000;
 
 const mongoDbUri = process.env.MONGODB_URI;
 
-if(!mongoDbUri){
-  throw new Error('MongoDB URI is not defined in environment variables ')
+if (!mongoDbUri) {
+  throw new Error('MongoDB URI is not defined in environment variables  ')
 }
 
 // Connect to MongoDB
@@ -87,28 +87,6 @@ app.get('/api/items/search/:searchText', async (req: Request, res: Response) => 
   }
 });
 
-// app.get('/api/items', (req: Request, res: Response) => {
-//   const { gender, age, _page = 1, _limit = 5 } = req.query;
-
-//   let filteredItems = items;
-
-//   // Filter by gender and age
-//   if (gender) {
-//     filteredItems = filteredItems.filter(item => item.gender === gender);
-//   }
-
-//   if (age) {
-//     filteredItems = filteredItems.filter(item => item.age === age);
-//   }
-
-//   // Paginate results
-//   const startIndex = ((Number(_page) - 1) * Number(_limit));
-//   const endIndex = startIndex + Number(_limit);
-//   const paginatedItems = filteredItems.slice(startIndex, endIndex);
-
-//   res.json(paginatedItems);
-// });
-
 app.post('/api/orders/newOrder', async (req: Request, res: Response) => {
   try {
     let newOrder = new MngOrder(req.body);
@@ -173,6 +151,6 @@ app.get("/", (req: Request, res: Response) => {
 // Start the server only when not in test mode
 if (require.main === module) {
   app.listen(port, () => {
-    console.log(`[server]: Server is running at http://localhost:${port}`);
+    console.log(`[server]: Server is running`);
   });
 }
