@@ -10,7 +10,7 @@ dotenv.config();
 
 const app: Express = express();
 export default app;
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 3000;
 
 const mongoDbUri = process.env.MONGODB_URI;
 
@@ -104,13 +104,13 @@ app.post('/api/orders/newOrder', async (req: Request, res: Response) => {
 
 app.get('/api/orders', async (req, res) => {
   try {
-    const status = req.query.status;
+    const status = (req.query.status == 'all' ? '' : req.query.status);
     const period = req.query.period;
 
     let query: Record<string, any> = {};
 
     if (status) {
-      query.status = status;
+      query.status = status
     }
 
     // Date filter logic
